@@ -1,0 +1,23 @@
+
+	--Yönetim Bilişim Sistemleri Bölümü, Veritabanı yönetimi ve modellemesi dersi Proje Ödevi--
+
+<YURT KAYIT SİSTEMİ>   
+**Bir öğrenci yurdu var .Öğrenciler listelenebiliyor, kayıt olabiliyor,güncellenebiliyor ve silinebiliyor.
+
+**Öğrencilerin istatistikleri tutuluyor.
+
+**Boş ve dolu odalar listelenip görüntüleniyor.Sadece öğrenciler değil yönetim , personellerde ayn şekilde işleme tabi tutuluyor.
+
+**Gelir ve gider tablosu oluşturulup listelenebiliyor.
+
+**Öğrenci bölümleri ayrı ayrı tutuluyor ve senelik ücret örnek olarak 3000 tl olarak belirlendi.
+
+**Veritabanından yararlanıldı bilgiler veri tabanından çekildi.
+
+**Sum kullanılarak kasadaki toplam miktar bulundu.
+
+**Distinct kullanımı ile aylar listelendi.
+
+**Sql bağlantısı Class kullanılarak oluşturuldu.Sebebi bağlantıyı daha kısa yoldan oluşturmak için.
+
+**Toplamda 14 tane form kullanıldı.Formlar arası geçişler yapıldı.
